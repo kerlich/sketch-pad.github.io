@@ -1,3 +1,5 @@
+$light-green: lighten(#00ff00, 40%);
+
 html  {
   background: #dedede;
 }
@@ -47,6 +49,6 @@ img {
   clear: right;
 
   &:hover {
-    background-color: #00fb00;
+    background-color: $light-green;
   }
 }
