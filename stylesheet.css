@@ -12,7 +12,7 @@ div {
   position: relative;
   height: 200px;
   width: 97.5%;
-  background-color: #00ff00;
+  background-color: $light-green;
 }
 
 h1  {
