@@ -34,11 +34,7 @@ img {
   width: 360px;
 }
 
-.nxtbtn {
-  
-}
-
-a:hover  {
+.nxtbtn:hover  {
   background-color: #00fb00;
 }
 
