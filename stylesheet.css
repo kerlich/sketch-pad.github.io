@@ -27,13 +27,17 @@ h1  {
   background-color: #e1e1e1;
 }
 
-#nxtbtn {
-  height: 45px;
-  width: 90px;
-  background-color: #00ff00;
-  position: relative;
+.nxtbtn {
+  
 }
 
 a: hover  {
   background-color: lighten(#00ff00) 25%;
+}
+
+.next {
+  height: 45px;
+  width: 90px;
+  background-color: #00ff00;
+  position: relative;
 }
