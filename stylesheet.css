@@ -23,6 +23,7 @@ h1  {
   position: relative;
   height: 800px;
   width: 97.5%;
+  margin-top: 50px;
   border-radius: 5px;
   background-color: #e1e1e1;
   clear: both;
