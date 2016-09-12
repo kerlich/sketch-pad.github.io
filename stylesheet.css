@@ -41,6 +41,7 @@ img {
 
 #btn1:hover {
   font-weight: bold;
+  background-color: #ffffff;
 }
 
 #nxtbtn {
@@ -49,6 +50,7 @@ img {
   background-color: #00ff00;
   position: relative;
   margin-left: 370px;
+  display: inline;
   
   &:hover {
     background-color: #ffffff;
