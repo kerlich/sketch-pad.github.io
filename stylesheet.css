@@ -46,7 +46,6 @@ img {
 
 a:hover {
   font-weight: bold;
-  background-color: #000000;
 }
 
 .next {
@@ -55,6 +54,10 @@ a:hover {
   background-color: #00ff00;
   position: relative;
   margin-left: 370px;
+  
+  &:hover {
+    background-color: #ffffff;
+  }
 }
 
 .next p {
