@@ -10,6 +10,7 @@ div {
 }
 
 #intro  {
+  display: block;
   position: relative;
   height: 200px;
   width: 97.5%;
@@ -23,6 +24,7 @@ h1  {
 }
 
 #idk  {
+  display: block;
   position: relative;
   height: 800px;
   width: 97.5%;
@@ -38,9 +40,11 @@ img {
 }
 
 #nxtbtn {
+  display: block;
   text-decoration: none;
   font-family: Arial;
   font-size: 16px;
+  padding-top: 10px;
 }
 
 a:hover {
@@ -49,6 +53,7 @@ a:hover {
 }
 
 .next {
+  display: block;
   height: 45px;
   width: 90px;
   background-color: #00ff00;
@@ -58,5 +63,4 @@ a:hover {
 
 .next p {
   text-align: center;
-  padding-top: 10px;
 }
