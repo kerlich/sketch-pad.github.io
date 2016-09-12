@@ -39,11 +39,6 @@ img {
   width: 360px;
 }
 
-#btn1:hover {
-  font-weight: bold;
-  background-color: #ffffff;
-}
-
 #nxtbtn {
   height: 45px;
   width: 90px;
@@ -51,9 +46,14 @@ img {
   position: relative;
   margin-left: 370px;
   display: inline;
-  
-  &:hover {
-    background-color: #ffffff;
-  }
+}
+
+#btn1 {
+  text-decoration: none;
+}
+
+#btn1:hover {
+  font-weight: bold;
+  background-color: #ffffff;
 }
 
