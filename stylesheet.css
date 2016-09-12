@@ -37,15 +37,9 @@ img {
   width: 360px;
 }
 
-a {
-  text-decoration: none;
-  font-family: Arial;
-  font-size: 16px;
-
-  &:hover {
+a:hover {
   font-weight: bold;
   color: #ffffff;
-  }
 }
 
 .nxtbtn {
@@ -59,4 +53,10 @@ a {
 .nxtbtn p {
   text-align: center;
   padding-top: 10px;
+  font-family: Arial;
+  font-size: 16px;
+}
+
+a {
+  text-decoration: none;
 }
