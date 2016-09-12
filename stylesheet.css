@@ -45,7 +45,7 @@ img {
 
 a:hover {
   font-weight: bold;
-  background-color: $light-green;
+  background-color: #000000;
 }
 
 .next {
@@ -58,5 +58,5 @@ a:hover {
 
 .next p {
   text-align: center;
-  padding: auto;
+  padding-top: 10px;
 }
