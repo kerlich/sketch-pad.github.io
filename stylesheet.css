@@ -49,7 +49,7 @@ a:hover {
 }
 
 .nxtbtn:hover {
-  background-color: lighten(#00ff00, 40%);
+  background-color: #00f000;
 }
 
 .nxtbtn p {
