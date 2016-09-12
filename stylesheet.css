@@ -48,3 +48,8 @@ img {
   position: relative;
   margin-left: 370px;
 }
+
+.next p {
+  text-align: center;
+  margin: auto;
+}
