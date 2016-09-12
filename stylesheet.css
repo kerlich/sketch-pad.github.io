@@ -1,8 +1,5 @@
-$green-color: #00ff00;
-$light-green: lighten($green-color, 40%);
-
 html  {
-  background: #dedede;
+  background-color: #dedede;
 }
 
 div {
@@ -48,17 +45,3 @@ a:hover {
   margin-left: 370px;
 }
 
-.nxtbtn:hover {
-  background-color: #00f000;
-}
-
-.nxtbtn p {
-  text-align: center;
-  padding-top: 10px;
-  font-family: Arial;
-  font-size: 16px;
-}
-
-a {
-  text-decoration: none;
-}
