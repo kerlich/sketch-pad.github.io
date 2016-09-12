@@ -37,8 +37,15 @@ img {
   width: 360px;
 }
 
-#nxtbtn:hover  {
+#nxtbtn {
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 16px;
+  
+  &:hover  {
   background-color: #0000aa;
+  font-weight: bold;
+  }
 }
 
 .next {
@@ -51,5 +58,5 @@ img {
 
 .next p {
   text-align: center;
-  margin: auto;
+  padding: auto;
 }
