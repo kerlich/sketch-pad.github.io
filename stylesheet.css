@@ -50,12 +50,16 @@ img {
   margin-left: 270px;
 }
 
+#nxtbtn:hover {
+  background-color: #0fff0f;
+}
+
 #btn1 {
   text-decoration: none;
 }
 
 #btn1:hover {
   font-weight: bold;
-  background-color: #ffffff;
+  color: #ffffff;
 }
 
