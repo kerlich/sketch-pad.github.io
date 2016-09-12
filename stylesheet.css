@@ -48,6 +48,10 @@ a:hover {
   margin-left: 370px;
 }
 
+.nxtbtn:hover {
+  background-color: lighten(#00ff00, 40%);
+}
+
 .nxtbtn p {
   text-align: center;
   padding-top: 10px;
