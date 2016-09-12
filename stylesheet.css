@@ -37,7 +37,7 @@ img {
   width: 360px;
 }
 
-#nxtbtn {
+.nxtbtn {
   text-decoration: none;
   font-family: Arial;
   font-size: 16px;
@@ -48,7 +48,7 @@ a:hover {
   font-weight: bold;
 }
 
-.next {
+.nxtbtn {
   height: 45px;
   width: 90px;
   background-color: #00ff00;
@@ -60,6 +60,6 @@ a:hover {
   }
 }
 
-.next p {
+.nxtbtn p {
   text-align: center;
 }
