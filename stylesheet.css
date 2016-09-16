@@ -50,6 +50,10 @@ img {
   margin-left: 270px;
 }
 
+.button p {
+  margin: auto;
+}
+
 #btn1 {
   text-decoration: none;
   text-align: center;
