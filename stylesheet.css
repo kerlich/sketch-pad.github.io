@@ -48,20 +48,19 @@ img {
   background-color: #00ff00;
   position: relative;
   margin-left: 270px;
-}
-
-a {
-  text-decoration: none;
-  
-  &:hover {
-  font-weight: bold;
-  color: #ffffff;
-  }
+  padding-top: 10px;
 }
 
 #btn1 {
+  text-decoration: none;
   text-align: center;
-  padding-top: 10px;
   font-family: Arial;
 }
+
+a:hover {
+  font-weight: bold;
+  color: #ffffff;
+}
+
+
 
