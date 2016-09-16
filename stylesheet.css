@@ -47,7 +47,14 @@ img {
   width: 90px;
   background-color: #00ff00;
   position: relative;
+}
+
+#next {
   margin-left: 270px;
+}
+
+#back {
+  margin-left: 175px;
 }
 
 .button:hover {
