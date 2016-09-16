@@ -42,19 +42,19 @@ img {
   width: 360px;
 }
 
-.divbtn {
+.button {
   height: 45px;
   width: 90px;
   background-color: #00ff00;
   position: relative;
   margin-left: 270px;
+
+  &:hover {
+    background-color: #000000;
+  }
 }
 
-.divbtn:hover {
-  color: #0fff0f;
-}
-
-#btn1 {
+.nxtbtn {
   text-decoration: none;
   text-align: center;
   padding-top: 10px;
