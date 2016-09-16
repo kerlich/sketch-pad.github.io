@@ -50,15 +50,12 @@ img {
   margin-left: 270px;
 }
 
-#btn1 {
+a {
   text-decoration: none;
-  text-align: center;
-  padding-top: 10px;
-  font-family: Arial;
-
+  
   &:hover {
-    font-weight: bold;
-    color: #ffffff;
+  font-weight: bold;
+  color: #ffffff;
   }
 }
 
