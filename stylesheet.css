@@ -51,7 +51,7 @@ img {
 }
 
 .divbtn:hover {
-  background-color: #0fff0f;
+  color: #0fff0f;
 }
 
 #btn1 {
@@ -59,10 +59,10 @@ img {
   text-align: center;
   padding-top: 8px;
   font-family: Arial;
-}
 
-#btn1:hover {
-  font-weight: bold;
-  color: #ffffff;
+  &:hover {
+    font-weight: bold;
+    color: #ffffff;
+  }
 }
 
