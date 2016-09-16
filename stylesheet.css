@@ -56,10 +56,12 @@ img {
 }
 
 .button:hover {
-  background-color: #000000;
+  background-color: #00f000;
 }
 
 #btn1 {
+  height: 45px;
+  width: 90px;
   text-decoration: none;
   text-align: center;
   font-family: Arial;
