@@ -56,7 +56,8 @@ img {
 
 #btn1 {
   text-decoration: none;
-  padding: auto;
+  padding-left: 10px;
+  font-family: Arial;
 }
 
 #btn1:hover {
