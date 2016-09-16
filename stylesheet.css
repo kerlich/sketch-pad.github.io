@@ -43,7 +43,7 @@ img {
 }
 
 .button {
-  display: inline;
+  display: block;
   height: 45px;
   width: 90px;
   background-color: #00ff00;
