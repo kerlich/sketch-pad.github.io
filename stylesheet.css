@@ -55,6 +55,10 @@ img {
   margin: auto;
 }
 
+.button:hover {
+  background-color: #000000;
+}
+
 #btn1 {
   text-decoration: none;
   text-align: center;
