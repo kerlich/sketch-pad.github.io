@@ -50,13 +50,13 @@ img {
   margin-left: 270px;
 }
 
+.button:hover {
+  background-color: #000000;
+}
+
 .button a p {
   padding-top: 12px;
   margin: auto;
-}
-
-.button:hover {
-  background-color: #000000;
 }
 
 #btn1 {
