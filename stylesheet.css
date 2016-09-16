@@ -56,11 +56,11 @@ img {
 
 #back {
   margin-left: 175px;
+  clear: left;
 }
 
 .button:hover {
   background-color: #00d300;
-  border: 1px solid #dedede;
 }
 
 .button a p {
