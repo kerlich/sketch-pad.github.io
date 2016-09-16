@@ -56,15 +56,16 @@ img {
 
 #btn1 {
   text-decoration: none;
+  text-align: center;
+  padding-top: 8px;
+  font-family: Arial;
 }
 
-#btn1 p {
-  font-family: Arial;
-  padding: auto;
 }
 
 #btn1:hover {
   font-weight: bold;
   color: #ffffff;
+  background-color: #000000;
 }
 
