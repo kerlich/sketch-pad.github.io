@@ -55,6 +55,7 @@ img {
 
 #back {
   margin-left: 175px;
+  clear: left;
 }
 
 .button:hover {
@@ -68,7 +69,7 @@ img {
   margin: auto;
 }
 
-#btn1 {
+#btn1, #btn2  {
   text-decoration: none;
   text-align: center;
   font-family: Arial;
