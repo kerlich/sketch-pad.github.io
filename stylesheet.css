@@ -52,10 +52,12 @@ img {
 
 .button:hover {
   background-color: #00e000;
+  border: 2px dashed #dedede;
 }
 
 .button a p {
   padding-top: 12px;
+  padding-bottom: 12px;
   margin: auto;
 }
 
