@@ -42,10 +42,6 @@ img {
   width: 360px;
 }
 
-img:hover {
-  border: 0px solid #dedede;
-}
-
 .button {
   height: 45px;
   width: 90px;
@@ -55,7 +51,7 @@ img:hover {
 }
 
 .button:hover {
-  background-color: #00e000;
+  background-color: #00d300;
   border: 1px solid #dedede;
 }
 
