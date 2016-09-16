@@ -43,7 +43,7 @@ img {
 }
 
 img:hover {
-  border: 1px solid #dedede;
+  border: 0px solid #dedede;
 }
 
 .button {
