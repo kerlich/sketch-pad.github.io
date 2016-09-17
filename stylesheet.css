@@ -56,7 +56,7 @@ img {
 
 #back {
   margin-left: 175px;
-  margin-top: 7px;
+  margin-top: -7px;
 }
 
 .button:hover {
