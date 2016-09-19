@@ -55,6 +55,7 @@ h1  {
   position: relative;
   float: right;
   margin-left: 2px;
+  text-align: center;
 }
 
 .button:hover {
@@ -67,8 +68,7 @@ h1  {
   text-decoration: none;
   font-family: Arial;
   font-size: 16px;
-  text-align: center;
-  padding: 30px 60px;
+  padding: 30px 0px;
 }
 
 a:hover {
