@@ -38,12 +38,15 @@ h1  {
 }
 
 .gallery-item img {
-  height: 200px;
-  width: 360px;
+  height: 100%;
+  width: 100%;
   border-radius: 5px;
 }
 
 .gallery-item {
+  height: 200px;
+  width: 360px;
+  border-radius: 5px;
   margin: 2px;
 }
 
