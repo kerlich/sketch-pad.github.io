@@ -55,19 +55,16 @@ h1  {
   width: 90px;
   background-color: #00ff00;
   position: relative;
+  float: right;
 }
 
 .button:hover {
   background-color: #00d300;
 }
 
-.button a p {
+.button a {
   padding-top: 12px;
   padding-bottom: 14px;
-  margin: auto;
-}
-
-#btn1, #btn2  {
   text-decoration: none;
   text-align: center;
   font-family: Arial;
