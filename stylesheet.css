@@ -58,7 +58,7 @@ h1  {
   position: relative;
   float: right;
   margin-left: 2px;
-  text-align: center;
+  justify-content: center;
 }
 
 .button:hover {
