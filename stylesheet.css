@@ -37,12 +37,6 @@ h1  {
   background-color: #efefef;
 }
 
-.gallery-item img {
-  height: 200px;
-  width: 360px;
-  border-radius: 5px;
-}
-
 .gallery-item {
   height: 247px;
   width: 360px;
@@ -50,20 +44,17 @@ h1  {
   margin: 2px;
 }
 
+.gallery-item img {
+  height: 200px;
+  width: 360px;
+  border-radius: 5px;
+}
+
 .button {
   height: 45px;
   width: 90px;
   background-color: #00ff00;
   position: relative;
-}
-
-#next {
-  margin-left: 270px;
-}
-
-#back {
-  margin-left: 177px;
-  margin-top: -45px;
 }
 
 .button:hover {
