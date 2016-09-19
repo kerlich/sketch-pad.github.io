@@ -56,6 +56,7 @@ h1  {
   background-color: #00ff00;
   position: relative;
   float: right;
+  text-align: center;
 }
 
 .button:hover {
@@ -63,10 +64,11 @@ h1  {
 }
 
 .button a {
+  height: 45px;
+  width: 90px;
   padding-top: 12px;
   padding-bottom: 14px;
   text-decoration: none;
-  text-align: center;
   font-family: Arial;
 }
 
