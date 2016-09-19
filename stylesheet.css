@@ -41,8 +41,7 @@ h1  {
   height: 247px;
   width: 360px;
   border-radius: 5px;
-  margin: 4px;
-  margin-top: 4px;
+  margin: 54px, 4px, 4px, 4px;
 }
 
 .gallery-item img {
