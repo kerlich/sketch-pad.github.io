@@ -63,7 +63,7 @@ h1  {
 }
 
 .button a {
-  margin: auto;
+  padding-top: 30px;
   height: 45px;
   width: 90px;
   text-decoration: none;
