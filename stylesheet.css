@@ -69,7 +69,8 @@ h1  {
 
 .button a {
   text-decoration: none;
-  padding: 45px 90px;
+  padding-top: 14px;
+  padding-bottom: 14px;
 }
 
 a:hover {
