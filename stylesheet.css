@@ -71,6 +71,8 @@ h1  {
   height: 45px;
   width: 90px;
   text-decoration: none;
+  display: table-cell;
+  vertical-align: middle;
 }
 
 a:hover {
