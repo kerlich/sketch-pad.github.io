@@ -68,6 +68,7 @@ h1  {
 }
 
 .button a {
+  height: 100px;
   text-decoration: none;
   padding: 14px 28px;
 }
