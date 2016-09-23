@@ -82,6 +82,6 @@ a:hover {
 
 .button a:active  {
   position: relative;
-  bottom: 2px;
+  top: 2px;
 }
 
