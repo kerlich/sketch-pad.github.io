@@ -52,8 +52,6 @@ h1  {
 }
 
 .button {
-  height: 45px;
-  width: 90px;
   background-color: #00ff00;
   position: relative;
   float: right;
