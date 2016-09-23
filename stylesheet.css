@@ -61,6 +61,7 @@ h1  {
   text-align: center;
   font-family: Arial;
   font-size: 16px;
+  justify-content: center;
 }
 
 .button:hover {
@@ -68,7 +69,6 @@ h1  {
 }
 
 .button a {
-  height: 100px;
   text-decoration: none;
   padding: 14px 28px;
 }
